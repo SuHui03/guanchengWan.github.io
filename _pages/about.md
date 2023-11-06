@@ -29,7 +29,7 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 
 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
-My curriculum vitae (**CV**) can be downloaded [here (in English)](). 
+My curriculum vitae (**CV**) can be downloaded [here](). 
 
 # 🔥 News
 
@@ -52,7 +52,7 @@ $^*$: Equal Contribution
 hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
   <dd>Wenke Huang*, <strong>Guancheng Wan</strong>*, Mang Ye, Bo Du</dd>
-  <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>)  </dd>
+  <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>), 2023  </dd>
   <!-- <dd>
     <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
     <a href="">[Code]</a>
