@@ -19,7 +19,7 @@ redirect_from:
 
 Hi there 👋!
 
-My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), fortunately supervised by [Prof. Mang Ye](https://marswhu.github.io/index.html). My research interest lies in graph mining and federated learning. I made effort to build a efficient, scalable and robust system for learning graph-strctured data.
+My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), fortunately supervised by [Prof. Mang Ye](https://marswhu.github.io/index.html). My research interest lies in graph mining and federated learning. I made efforts to build an efficient, scalable and robust system for learning graph-strctured data.
 
 
 
