@@ -11,7 +11,7 @@ description              : "Undergraduate student at Wuhan University."
 repository               : "GuanchengWan/guanchengWan.github.io"
 google_scholar_stats_use_cdn : true
 
-github: [metadata]
+
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -44,7 +44,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : boheng-li-806753238/ # e.g., "linkedin username"
+  linkedin         :  # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

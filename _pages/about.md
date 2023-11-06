@@ -19,43 +19,50 @@ redirect_from:
 
 Hi there 👋!
 
-My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), pursuing a B.E. degree in Software Engieering. My research interest lies in graph mining and federated learning,  ad
+My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), fortunately supervised by [Prof. Mang Ye](https://marswhu.github.io/index.html). My research interest lies in graph mining and federated learning. I made effort to build a efficient, scalable and robust system for learning graph-strctured data.
 
 
 
 <!-- My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models. It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/). -->
 
-I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
+<!-- I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU).  -->
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
-<!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
+My curriculum vitae (**CV**) can be downloaded [here (in English)](). 
 
 # 🔥 News
 
+- *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
-- *2023.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
+- *2023.10:* I won the National Scholarship for the second time (0.2% nationa-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 
 
+<br/>
 
 
 
 
 # 📃 Publications 
 
-$^\dagger$: Equal Contribution   $^*$: Corresponding Author
+$^*$: Equal Contribution   
 
 <dl>
-  <dt><img align="left" width="200" hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
-  <dd><strong>Federated Graph Semantic and Structural Learning</strong></dd>
-  <dd>Wenke Huang &#8224, <strong>Guancheng Wan</strong>&#8224, Mang Ye*, Bo Du</dd>
+  <dt><img align="left" width="400"
+hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
+  <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
+  <dd>Wenke Huang*, <strong>Guancheng Wan</strong>*, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>)  </dd>
-  <dd>
+  <!-- <dd>
     <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
     <a href="">[Code]</a>
-  </dd>
+  </dd> -->
+  <!-- <p><br /><br /></p> -->
 </dl>
-
+<br />
+<br />
+<br />
+<br/>
 
 
 
@@ -65,14 +72,15 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 # 📝 Manuscripts
 
 <dl>
-  <dt><img align="left"  width="200" hspace="10"  wspace="20" src="../images/fggp.png"></dt>
+  <dt><img align="left"  width="400"
+hspace="40"   wspace="20" src="../images/fggp.png"></dt>
   <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
-  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye*</dd>
+  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> <i>Under review</i>, 2023</dd>
 </dl>
 
 
-
+<br/><br/><br/><br/>
 
 
 
