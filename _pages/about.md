@@ -40,12 +40,12 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 
 
-# 📝 Publications 
+# 📃 Publications 
 
 $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 
 <dl>
-  <dt><img align="left" width="300" hspace="10"  wspace="30" src="../images/fgssl.png"></dt>
+  <dt><img align="left" width="400" hspace="10" height="130"  wspace="30" src="../images/fgssl.png"></dt>
   <dd><strong>Federated Graph Semantic and Structural Learning</strong></dd>
   <dd>Wenke Huang &#8224, <strong>Guancheng Wan</strong>&#8224, Mang Ye*, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>)  </dd>
@@ -57,17 +57,19 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 
 
 
-# 📃Manuscripts
+
+
+
+
+
+# 📝 Manuscripts
 
 <dl>
-  <dt><img align="left" width="300" hspace="10"  wspace="30" src="../images/fggp.png"></dt>
+  <dt><img align="left" height="130" width="400" hspace="10"  wspace="30" src="../images/fggp.png"></dt>
   <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye*</dd>
-    <dd> <i>Under review</i>, 2023
+    <dd> <i>Under review</i>, 2023</dd>
 </dl>
-
-
-
 
 
 
@@ -91,14 +93,7 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 
 
 
-
-
-
-
-<!-- # 🎡 Activities
-
-## Academic Services
-- Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
-- Reviewer, ACM Multimedia (MM), 2023.
-- Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
-- Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023. -->
+# 📖 Educations
+- *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University, China. 
+- *2018.09 - 2021.06*, Senior Middle School, The attached Middle School To Jiangxi Normal University, China.
+- *2015.09 - 2018.06*, Junior Middle School, Yuxin School, China.
