@@ -33,6 +33,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 
 # 🔥 News
 
+
 - *2023.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 
 
@@ -45,7 +46,7 @@ I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUAN
 $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 
 <dl>
-  <dt><img align="left" width="400" hspace="10" height="130"  wspace="30" src="../images/fgssl.png"></dt>
+  <dt><img align="left" width="200" hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><strong>Federated Graph Semantic and Structural Learning</strong></dd>
   <dd>Wenke Huang &#8224, <strong>Guancheng Wan</strong>&#8224, Mang Ye*, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>)  </dd>
@@ -61,11 +62,10 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 
 
 
-
 # 📝 Manuscripts
 
 <dl>
-  <dt><img align="left" height="130" width="400" hspace="10"  wspace="30" src="../images/fggp.png"></dt>
+  <dt><img align="left"  width="200" hspace="10"  wspace="20" src="../images/fggp.png"></dt>
   <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye*</dd>
     <dd> <i>Under review</i>, 2023</dd>
