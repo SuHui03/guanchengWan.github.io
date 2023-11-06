@@ -27,20 +27,13 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 
 I have won the First Class Scholarship of WHU 2 times (5% school-wide), the HUANG Zhangren Scholarship (60 candidates per year in WHU), the Huawei Scholarship (54 candidates per year in WHU), the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (60 candidates per year in WHU). I was awarded 🏅️ the **Gold Reward** of [The 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition](https://cy.ncss.cn/), the highest and most valuable competition award for Chinese college students (national-wide, refer to [this link](https://news.eol.cn/yaowen/202103/t20210322_2087129.shtml)), as the co-founder of the team.
 
-🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Information Security or AI. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+🌟🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
 
 <!-- My curriculum vitae can be downloaded [here (in English)](https://github.com/AntigoneRandy/antigonerandy.github.io/raw/main/docs/Boheng_Li_s_CV.pdf).  -->
 
 # 🔥 News
-- *2023.08*: Invited as a reviewer by ACM TOMM.
-- *2023.08*: One paper is accepted by ICCVW UnCV 2023.
-- *2023.07*: One paper is accepted by ACM MM 2023.
-- *2023.07*: One paper is accepted by ICCV 2023.
-- *2023.06*: Invited as a reviewer by ACM MM.
-- *2023.02*: I was awarded the Huawei Scholarship (54 candidates per year in WHU) by Wuhan University & Huawei Technologies Co., Ltd.
-- *2022.11*: Our team "AntiE" won the **Gold Reward** (national highest award, award rate less than 0.01%) of the 8th China International College Students 'Internet+' Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), it's a great honor! Congratulations to my teammates Jiahao Zhou, Tingyu Luo, Xinyue Zhang, Sixing Lin, Tong Zong, Zhuoyuan Wu, Chang Lu, Jie Xiao, Yiqing Li, Hanrui Yao, Weijing Li, and Fan Wang. Thanks to our team's former members Xin Cao and Chong Hu, our advisers Qingxiang Meng, Xiaoliang Meng, Run Wang and Linqing Liu, thanks to Chufeng Wu, Prof. Jun Qian, Prof. Huying Zhang, Mr. Qilin Sun who helped us a lot! Thanks to my mom and dad, thanks to everyone!
-<!-- - *2022.10*: Our team "AntiE" enters the national finals of the 8th China International College Students "Internet+" Innovation and Entrepreneurship Competition (Chinese: 中国国际“互联网+”大学生创新创业大赛), see you in Chongqing! -->
-- *2022.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
+
+- *2023.10*: I won the National Scholarship (0.2% national-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
 
 
 
@@ -55,14 +48,12 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
   <dt><img align="left" width="300" hspace="10"  wspace="30" src="../images/fgssl.png"></dt>
   <dd><strong>Federated Graph Semantic and Structural Learning</strong></dd>
   <dd>Wenke Huang &#8224, <strong>Guancheng Wan</strong>&#8224, Mang Ye*, Bo Du</dd>
-  <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>)
+  <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>)  </dd>
   <dd>
-    <a href="https://arxiv.org/pdf/2211.14065.pdf">[Paper]</a> 
-    <a href="https://github.com/yixinliu233/GREET">[Code]</a>
+    <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
+    <a href="">[Code]</a>
   </dd>
 </dl>
-
-
 
 
 
@@ -74,6 +65,8 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye*</dd>
     <dd> <i>Under review</i>, 2023
 </dl>
+
+
 
 
 
@@ -102,10 +95,10 @@ $^\dagger$: Equal Contribution   $^*$: Corresponding Author
 
 
 
-# 🎡 Activities
+<!-- # 🎡 Activities
 
 ## Academic Services
 - Reviewer, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2023.
 - Reviewer, ACM Multimedia (MM), 2023.
 - Sub-Reviewer, ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD), 2023.
-- Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023.
+- Sub-Reviewer, AAAI Conference on Artificial Intelligence (AAAI), 2023. -->
