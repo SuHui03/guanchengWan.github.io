@@ -90,7 +90,7 @@ hspace="40"   wspace="20" src="../images/fggp.png"></dt>
 
 <dl>
   <dt><img align="left"  width="400"
-hspace="40"   wspace="20" src="../images/FL_survey.png"></dt>
+hspace="40"  wspace="20" src="../images/FL_survey.png"></dt>
   <dd><strong>A Survey on Federated Learning for
 Generalization, Robustness, Fairness</strong></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du</dd>
