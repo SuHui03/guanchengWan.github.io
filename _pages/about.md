@@ -75,7 +75,7 @@ hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
 
 <dl>
   <dt><img align="left"  width="400"
-hspace="40"   wspace="20" src="../images/fggp.png"></dt>
+hspace="40" wspace="20" src="../images/fggp.png"></dt>
   <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> <i>Under review</i>, 2023</dd>
@@ -90,15 +90,16 @@ hspace="40"   wspace="20" src="../images/fggp.png"></dt>
 
 <dl>
   <dt><img align="left"  width="400"
-hspace="40"  wspace="20" src="../images/FL_survey.png"></dt>
+hspace="40 wspace="20" src="../images/flsurvey.png"></dt>
   <dd><strong>A Survey on Federated Learning for
 Generalization, Robustness, Fairness</strong></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du</dd>
     <dd>2023</dd>
 </dl>
 
-<br/><br/><br/><br/>
 
+
+<br/><br/><br/><br/>
 
 
 
