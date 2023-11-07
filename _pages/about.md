@@ -34,7 +34,7 @@ My curriculum vitae (**CV**) can be downloaded [here]().
 
 - *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
-- *2023.10:* I won the National Scholarship for the second time (0.2% nationa-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
+- *2023.10:* I won the National Scholarship for the second time (0.2% nationa-wide), and was selected the Pacemaker to Merit Student  (Award Rate: 60/59774=0.1%).
 
 - *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
 CONFERENCE ON ARTIFICIAL INTELLIGENCE* and presented our work in Macao.
@@ -111,11 +111,11 @@ Generalization, Robustness, Fairness</strong></dd>
 
 - *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
 - *2023.09* **National Scholarship** **(Twice)** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2023.09* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
+- *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2023.06* **Social Activist** (Award Rate: 1584/59774=2.6%) *Wuhan University*
 - *2022.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
 - *2022.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
-- *2022.09* **First Class Scholarship of WHU** (Award Rate: 5% school-wide) *Wuhan University* 
+- *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
 
