@@ -110,11 +110,11 @@ Generalization, Robustness, Fairness</strong></dd>
 - 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (102 Students nation-wide) *China Computer Federation*
 
 - *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
-- *2023.09* **National Scholarship** **(Twice)** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2023.09* **National Scholarship** **(Twice)** (Award Rate: 0.2% nation-wide) *Ministry of Education, China* 
 - *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2023.06* **Social Activist** (Award Rate: 1584/59774=2.6%) *Wuhan University*
+
 - *2022.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
-- *2022.09* **National Scholarship** (Award Rate: 0.2% national-wide) *Ministry of Education, China* 
+- *2022.09* **National Scholarship** (Award Rate: 0.2% nation-wide) *Ministry of Education, China* 
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
@@ -124,3 +124,6 @@ Generalization, Robustness, Fairness</strong></dd>
 - *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University, China. 
 - *2018.09 - 2021.06*, Senior Middle School, The attached Middle School To Jiangxi Normal University, China.
 - *2015.09 - 2018.06*, Junior Middle School, Yuxin School, China.
+
+
+<dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
