@@ -19,8 +19,7 @@ redirect_from:
 
 Hi there 👋!
 
-My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), fortunately supervised by [Prof. Mang Ye](https://marswhu.github.io/index.html). My research interest lies in graph mining and federated learning. I made efforts to build an efficient, scalable and robust system for learning graph-strctured data.
-
+My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), fortunately supervised by [Prof. Mang Ye](https://marswhu.github.io/index.html). My research interest lies in graph mining and federated learning. I made efforts to build an efficient, scalable, and robust system for learning graph-structured data.
 
 
 <!-- My research interest lies in Artificial Intelligence (AI) Security & Privacy, where I explore the weakness of Deep Learning models in their lifecycles (e.g., Adversarial Attack, Backdoor Attack) and their countermeasures. I also made efforts on turning these weaknesses into good use, applying on privacy protection and Intellectual Property (IP) protection of deep learning models. It's a fortune to be supervised by Prof. [Run Wang](http://wangrun.github.io/) during my study on AI. During my undergraduate study, I also enjoyed a great time conducting research on  Geoinformatics and Remote Sensing, in which I worked closely with my teammates [Jiahao Zhou](https://ddakun.github.io/) and [Sixing Lin](https://defaultlin.cn/). -->
@@ -36,6 +35,9 @@ My curriculum vitae (**CV**) can be downloaded [here]().
 - *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
 - *2023.10:* I won the National Scholarship for the second time (0.2% nationa-wide), and was selected the Pacemaker to Merit Student of WHU (Award Rate: 60/59774=0.1%).
+
+- *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
+CONFERENCE ON ARTIFICIAL INTELLIGENCE* and presented our work in Macao.
 
 
 <br/>
@@ -78,7 +80,22 @@ hspace="40"   wspace="20" src="../images/fggp.png"></dt>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> <i>Under review</i>, 2023</dd>
 </dl>
+<br />
+<br />
+<br />
+<br />
 
+---
+
+
+<dl>
+  <dt><img align="left"  width="400"
+hspace="40"   wspace="20" src="../images/FL_survey.png"></dt>
+  <dd><strong>A Survey on Federated Learning for
+Generalization, Robustness, Fairness</strong></dd>
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du</dd>
+    <dd>2023</dd>
+</dl>
 
 <br/><br/><br/><br/>
 
