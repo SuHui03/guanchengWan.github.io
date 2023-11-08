@@ -95,7 +95,7 @@ hspace="40" wspace="20" src="../images/flsurvey.png">
 </dt>
   <dd><strong>A Survey on Federated Learning for
 Generalization, Robustness, Fairness</strong></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du</dd>
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du, Qiang Yang</dd>
     <dd>2023</dd>
 </dl>
 
