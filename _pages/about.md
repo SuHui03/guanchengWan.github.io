@@ -93,7 +93,7 @@ hspace="40" wspace="20" src="../images/fggp.png"></dt>
   <dt><img align="left" width="400"
 hspace="40" wspace="20" src="../images/flsurvey.png">
 </dt>
-  <dd>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</dd>
+  <dd><a href="https://arxiv.org/abs/2311.06750">Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du, Qiang Yang</dd>
     <dd>2023</dd>
 </dl>
