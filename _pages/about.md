@@ -35,7 +35,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 - *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
-- *2023.10:* I won the National Scholarship for the second time (0.2% nationa-wide), and was selected the Pacemaker to Merit Student  (Award Rate: 60/59774=0.1%).
+- *2023.10:* I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student  (Award Rate: 60/59774=0.1%).
 
 - *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
 CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
