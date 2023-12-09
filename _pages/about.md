@@ -66,7 +66,7 @@ hspace="40" wspace="20" src="../images/fggp.png"></dt>
   <dt><img align="left" width="400"
 hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang*, <strong>Guancheng Wan</strong>*, Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang*, <strong>Guancheng Wan*</strong>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
   <!-- <dd>
     <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
