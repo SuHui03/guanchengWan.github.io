@@ -49,13 +49,25 @@ CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
 # 📃 Publications 
 
 $^*$: Equal Contribution   
+<dl>
+  <dt><img align="left"  width="400"
+hspace="40" wspace="20" src="../images/fggp.png"></dt>
+  <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
+  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
+    <dd> The 38th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
+</dl>
+<br />
+<br />
 
+<br />
+
+---
 <dl>
   <dt><img align="left" width="400"
 hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
   <dd>Wenke Huang*, <strong>Guancheng Wan</strong>*, Mang Ye, Bo Du</dd>
-  <dd> International Joint Conference on Artificial Intelligence(<strong>IJCAI</strong>), 2023  </dd>
+  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
   <!-- <dd>
     <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
     <a href="">[Code]</a>
@@ -74,19 +86,7 @@ hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
 
 # 📝 Manuscripts
 
-<dl>
-  <dt><img align="left"  width="400"
-hspace="40" wspace="20" src="../images/fggp.png"></dt>
-  <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
-  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
-    <dd> <i>Under review</i>, 2023</dd>
-</dl>
-<br />
-<br />
 
-<br />
-
----
 
 
 <dl>
