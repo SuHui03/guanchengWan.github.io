@@ -33,6 +33,8 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 # 🔥 News
 
+- *2023.12:* A paper was accepted to AAAI2024. See you in Vancouver.
+
 - *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
 - *2023.10:* I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student  (Award Rate: 60/59774=0.1%).
@@ -96,7 +98,7 @@ hspace="40" wspace="20" src="../images/flsurvey.png">
   <dd><a href="https://arxiv.org/abs/2311.06750">Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
   </dd>
-    <dd>2023</dd>
+    <dd>In Submission, 2023</dd>
 </dl>
 
 
