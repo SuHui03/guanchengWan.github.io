@@ -54,7 +54,7 @@ $^*$: Equal Contribution
 hspace="40" wspace="20" src="../images/fggp.png"></dt>
   <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
-    <dd> The 38th Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
+    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
 </dl>
 <br />
 <br />
