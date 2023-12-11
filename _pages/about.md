@@ -29,7 +29,7 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf). 
 
 # 🔎 Research 
-I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: a) Federated Graph Learning, b) Graph Distillation, and c) Geometric Learning For Science
+I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: a) Federated Graph Learning, b) Graph Unsupervised Learning, and c) Graph Learning with LLMs.
 
 # 🔥 News
 
