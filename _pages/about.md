@@ -98,7 +98,7 @@ hspace="40" wspace="20" src="../images/flsurvey.png">
   <dd><a href="https://arxiv.org/abs/2311.06750">Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
   </dd>
-    <dd><i>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023 (Under Review)</dd>
+    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2023 (Under Review) </dd>
 </dl>
 
 
