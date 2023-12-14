@@ -42,7 +42,6 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 - *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
 CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
 
-
 <br/>
 
 
@@ -53,12 +52,11 @@ CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
 $^*$: Equal Contribution   
 <dl>
   <dt><img align="left"  width="400"
-" wspace="20" style="margin-right: 20px;" src="../images/fggp.png"></dt>
-<div>
-  <dd ><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
+ wspace="20" hspace="10" src="../images/fggp.png"></dt>
+  <dd><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
-    </div>
+
 </dl>
 <br />
 <br />
@@ -68,7 +66,7 @@ $^*$: Equal Contribution
 ---
 <dl>
   <dt><img align="left" width="400"
-hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
+hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
   <dd>Wenke Huang*, <strong>Guancheng Wan*</strong>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
@@ -95,7 +93,7 @@ hspace="40"   wspace="20" src="../images/fgssl.png"></dt>
 
 <dl>
   <dt><img align="left" width="400"
-hspace="40" wspace="20" src="../images/flsurvey.png">
+hspace="10" wspace="20" src="../images/flsurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2311.06750">Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
