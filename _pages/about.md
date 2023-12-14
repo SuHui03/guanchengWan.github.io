@@ -130,3 +130,8 @@ hspace="40" wspace="20" src="../images/flsurvey.png">
 
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
+
+
+Handwriting of my Chinese name:)
+<dl><img align="left" height="auto"  width="130"
+ src="../images/handwrite.png"></dl>
