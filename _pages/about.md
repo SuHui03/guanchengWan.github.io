@@ -53,10 +53,12 @@ CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
 $^*$: Equal Contribution   
 <dl>
   <dt><img align="left"  width="400"
-hspace="40" wspace="20" src="../images/fggp.png"></dt>
-  <dd><strong>Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
+" wspace="20" style="margin-right: 20px;" src="../images/fggp.png"></dt>
+<div>
+  <dd ><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
+    </div>
 </dl>
 <br />
 <br />
