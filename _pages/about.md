@@ -98,8 +98,8 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
   <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
   </dd>
-    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023 (Under Review) </dd>
-    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</dd>
+    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023 (Under Review)</dd>
+    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
 </dl>
 
 
