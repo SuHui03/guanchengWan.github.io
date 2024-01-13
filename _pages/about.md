@@ -124,7 +124,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 # 🎡 Service
 
-- Reviewer for CVPR'24
+- Reviewer for CVPR'2024
 
 <br/>
 
