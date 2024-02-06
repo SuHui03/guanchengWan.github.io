@@ -124,6 +124,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 # 🎡 Service
 - Reviewer for ACM MM'2024
+- Reviewer for ECCV'2024
 - Reviewer for CVPR'2024
 
 <br/>
