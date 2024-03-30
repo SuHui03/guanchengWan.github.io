@@ -53,7 +53,7 @@ $^*$: Equal Contribution
 <dl>
   <dt><img align="left"  width="400"
  wspace="20" hspace="10" src="../images/fggp.png"></dt>
-  <dd><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></dd>
+  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
 
@@ -123,6 +123,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <br/>
 
 # 🎡 Service
+- Reviewer for ECML PKDD'2024
 - Reviewer for ACM MM'2024
 - Reviewer for ECCV'2024
 - Reviewer for CVPR'2024
