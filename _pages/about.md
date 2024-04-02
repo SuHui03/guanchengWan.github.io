@@ -29,11 +29,18 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf). 
 
 # 🔎 Research 
-I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: a) Federated Graph Learning, b) Graph Unsupervised Learning, and c) Graph Learning with LLMs.
+I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: a) Federated Graph Learning, b) Graph Unsupervised Learning, and c) Graph Learning + X (Science, Public Health...).
+
+<br/>
 
 # 🔥 News
 
+
+- *2024.04:* 🚀🚀 We realize the paper in Arxiv, which completely reviews the utilization of Graph Neural Networks in Epidemic Modeling.
+  
 - *2023.12:* A paper was accepted to AAAI2024. See you in Vancouver.
+
+- *2023.11:* 🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
 
 - *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
@@ -113,8 +120,18 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 
 
-<br/><br/>
+<br/>
 
+<br/>
+
+# 🎡 Service
+- Reviewer for ECML PKDD'2024
+- Reviewer for ACM MM'2024
+- Reviewer for ECCV'2024
+- Reviewer for CVPR'2024
+
+
+<br/>
 
 # 🎖 Scholarships and Honors
 
@@ -129,13 +146,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
-<br/>
 
-# 🎡 Service
-- Reviewer for ECML PKDD'2024
-- Reviewer for ACM MM'2024
-- Reviewer for ECCV'2024
-- Reviewer for CVPR'2024
 
 <br/>
 
