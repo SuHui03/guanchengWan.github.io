@@ -36,7 +36,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 # 🔥 News
 
 
-- *2024.04:* 🚀🚀 We realize the paper in Arxiv, which completely reviews the utilization of Graph Neural Networks in Epidemic Modeling.
+- *2024.04:* 🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling.
   
 - *2023.12:* A paper was accepted to AAAI2024. See you in Vancouver.
 
