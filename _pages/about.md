@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋!
 
-My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the [School of Computer Science](https://cs.whu.edu.cn/), [Wuhan University (WHU)](https://www.whu.edu.cn/), fortunately supervised by [Prof. Mang Ye](https://marswhu.github.io/index.html). My research interest lies in graph mining. I made efforts to build an efficient, scalable, trustworthy, and robust system for learning graph-structured data.
+
+My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the School of Computer Science, Wuhan University (WHU), supervised by [Mang Ye](https://marswhu.github.io/index.html). I worked with [Nitesh V Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ), [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao) and [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en).  My research interest lies in graph mining, where I made efforts to build an efficient, scalable, trustworthy, and robust system for learning graph-structured data.
 
 
 
@@ -69,6 +69,8 @@ $^*$: Equal Contribution
 <br />
 <br />
 
+
+
 ---
 <dl>
   <dt><img align="left" width="400"
@@ -106,7 +108,26 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 <br/>
 <br/>
 
+
+
 ---
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
+</dt>
+  <dd><a href=""><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
+</strong></a></dd>
+<dd><strong>Guancheng Wan</strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
+    <dd>International Conference on Machine Learning (<strong>ICML</strong>), under review</dd>
+</dl>
+
+<br />
+<br />
+<br />
+
+---
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/flsurvey.png">
