@@ -56,7 +56,7 @@ CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
 
 # 📃 Publications 
 
-$^*$: Equal Contribution   
+$^*$: **Equal Contribution**   
 <dl>
   <dt><img align="left"  width="400"
  wspace="20" hspace="10" src="../images/fggp.png"></dt>
