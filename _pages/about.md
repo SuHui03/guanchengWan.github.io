@@ -61,7 +61,7 @@ $^*$: Equal Contribution
   <dt><img align="left"  width="400"
  wspace="20" hspace="10" src="../images/fggp.png"></dt>
   <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
-  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
+  <dd><strong><u>Guancheng Wan</u></strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
 
 </dl>
@@ -76,7 +76,7 @@ $^*$: Equal Contribution
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang*, <strong>Guancheng Wan*</strong>, Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang*, <strong><u>Guancheng Wan*</u></strong>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
   <!-- <dd>
     <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
@@ -100,7 +100,7 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu*, <strong>Guancheng Wan*</strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+<dd>Zewen Liu*, <strong><u>Guancheng Wan*</u></strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
     <dd>ArXiv, 2024</dd>
 </dl>
 
@@ -118,7 +118,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 </dt>
   <dd><a href=""><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
 </strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
+<dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
     <dd>International Conference on Machine Learning (<strong>ICML</strong>), under review</dd>
 </dl>
 
@@ -133,7 +133,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 hspace="10" wspace="20" src="../images/flsurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan*</u></strong>, He Li, Bo Du,  Qiang Yang
   </dd>
     <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023 (Under Review)</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
