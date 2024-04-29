@@ -38,7 +38,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 - *2024.04:* 🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling.
   
-- *2023.12:* A paper was accepted to AAAI2024. See you in Vancouver.
+- *2023.12:* A paper was accepted to AAAI 2024. See you in Vancouver.
 
 - *2023.11:* 🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
 
