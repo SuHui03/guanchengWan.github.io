@@ -36,11 +36,13 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 # 🔥 News
 
 
-- *2024.04:* 🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling.
+- *2024.04:* ✨✨✨ Very happy that my paper was accepted by ICML 2024. See you in Austria!
+  
+- *2024.04:* 🚀🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling.
   
 - *2023.12:* A paper was accepted to AAAI 2024. See you in Vancouver.
 
-- *2023.11:* 🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
+- *2023.11:* 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
 
 - *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
 
@@ -57,6 +59,23 @@ CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
 # 📃 Publications 
 
 $^*$: **Equal Contribution**   
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
+</dt>
+  <dd><a href=""><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
+</strong></a></dd>
+<dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
+    <dd>International Conference on Machine Learning (<strong>ICML</strong>), under review</dd>
+</dl>
+
+<br />
+<br />
+<br />
+
+---
+
 <dl>
   <dt><img align="left"  width="400"
  wspace="20" hspace="10" src="../images/fggp.png"></dt>
@@ -112,21 +131,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 
 ---
 
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
-</dt>
-  <dd><a href=""><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
-</strong></a></dd>
-<dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
-    <dd>International Conference on Machine Learning (<strong>ICML</strong>), under review</dd>
-</dl>
 
-<br />
-<br />
-<br />
-
----
 
 <dl>
   <dt><img align="left" width="400"
