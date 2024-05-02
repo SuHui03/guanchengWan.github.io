@@ -67,9 +67,11 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
   <dd><a href=""><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
 </strong></a></dd>
 <dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
-    <dd>International Conference on Machine Learning (<strong>ICML</strong>), under review</dd>
+    <dd><strong> International Conference on Machine Learning (ICML) </strong></dd>
 </dl>
 
+<br />
+<br />
 <br />
 <br />
 <br />
@@ -95,7 +97,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang*, <strong><u>Guancheng Wan*</u></strong>, Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang*, <strong><u>Guancheng Wan* (co-first)</u></strong>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
   <!-- <dd>
     <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
@@ -119,7 +121,7 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu*, <strong><u>Guancheng Wan*</u></strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+<dd>Zewen Liu*, <strong><u>Guancheng Wan* (co-first)</u></strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
     <dd>ArXiv, 2024</dd>
 </dl>
 
