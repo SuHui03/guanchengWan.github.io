@@ -37,8 +37,9 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 
 - *2024.05:* ✨✨✨ Very happy that my paper was accepted by ICML 2024. See you in Austria!
+
   
-- *2024.04:* 🚀🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
+- *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
   
 - *2023.12:* A paper was accepted to AAAI 2024. See you in Vancouver.
 
@@ -165,6 +166,8 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <br/>
 
 # 🎖 Scholarships and Honors
+
+- 2024.04 **CS Pioneer** (10 Students department-wide) *Wuhan University*
 
 - 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (102 Students nation-wide) *China Computer Federation*
 
