@@ -36,9 +36,9 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 # 🔥 News
 
 
-- *2024.04:* ✨✨✨ Very happy that my paper was accepted by ICML 2024. See you in Austria!
+- *2024.05:* ✨✨✨ Very happy that my paper was accepted by ICML 2024. See you in Austria!
   
-- *2024.04:* 🚀🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling.
+- *2024.04:* 🚀🚀🚀 Explore our ArXiv pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
   
 - *2023.12:* A paper was accepted to AAAI 2024. See you in Vancouver.
 
@@ -142,9 +142,12 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
   <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du,  Qiang Yang
   </dd>
-    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2023 (Under Review)</dd>
+    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), Under Review</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
 </dl>
+
+<br/>
+<br/>
 
 
 
@@ -165,12 +168,12 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 - 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (102 Students nation-wide) *China Computer Federation*
 
-- *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=0.1%) *Wuhan University*
-- *2023.09* **National Scholarship** **(Twice)** (Award Rate: 0.2% nation-wide) *Ministry of Education, China* 
+- *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
+- *2023.09* **National Scholarship** **(<u>Twice</u>)** (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 - *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 
 - *2022.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
-- *2022.09* **National Scholarship** (Award Rate: 0.2% nation-wide) *Ministry of Education, China* 
+- *2022.09* **National Scholarship** (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
