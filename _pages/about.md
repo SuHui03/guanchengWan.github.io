@@ -24,7 +24,7 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 
 
 
-🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email! 
+<!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
 
 My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf). 
 
@@ -36,7 +36,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 # 🔥 News
 
 
-- *2024.05:* ✨✨✨ Very happy that my paper was accepted by ICML 2024. See you in Austria!
+- *2024.05:* ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024 </strong>. See you in Austria!
 
   
 - *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
