@@ -26,7 +26,7 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 
 <!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
 
-My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf). 
+<!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
 I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: a) Federated Graph Learning, b) Graph Unsupervised Learning, and c) Graph Learning + X (Science, Public Health...).
@@ -123,7 +123,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
 <dd>Zewen Liu*, <strong><u>Guancheng Wan* (co-first)</u></strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
-    <dd>ArXiv, 2024</dd>
+    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), under review</dd>
 </dl>
 
 <br/>
