@@ -171,12 +171,12 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 - 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (102 Students nation-wide) *China Computer Federation*
 
-- *2023.10* **Pacemaker to Merit Student** (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
-- *2023.09* **National Scholarship** **(<u>Twice</u>)** (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
+- *2023.09* **National Scholarship** **(<u>Twice</u>)** (国家奖学金) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 - *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 
 - *2022.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
-- *2022.09* **National Scholarship** (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+- *2022.09* **National Scholarship** (国家奖学金) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
