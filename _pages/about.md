@@ -36,12 +36,17 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 # 🔥 News
 
 
+- *2024.05:* I serve as a reviewer for NeurIPS'24.
+
 - *2024.05:* ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024 </strong>. See you in Austria!
 
-  
 - *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
+
+- *2024.02:* I serve as a reviewer for ECCV'24.
   
 - *2023.12:* A paper was accepted to AAAI 2024. See you in Vancouver.
+
+- *2023.11:* I serve as a reviewer for CVPR'24.
 
 - *2023.11:* 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
 
@@ -119,6 +124,25 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 
 <dl>
   <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedSSP.png">
+</dt>
+  <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
+<dd>Zihan Tan*, <strong><u>Guancheng Wan* (co-first)</u></strong>, Wenke Huang, Mang Ye</dd>
+    <dd>under review</dd>
+</dl>
+
+<br/>
+<br/>
+<br/>
+
+
+
+---
+
+
+
+<dl>
+  <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
@@ -157,6 +181,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <br/>
 
 # 🎡 Service
+- Reviewer for NeurIPS'2024
 - Reviewer for ECML PKDD'2024
 - Reviewer for ACM MM'2024
 - Reviewer for ECCV'2024
@@ -169,7 +194,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 - 2024.04 **CS Pioneer** (10 Students department-wide) *Wuhan University*
 
-- 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (102 Students nation-wide) *China Computer Federation*
+- 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
 - *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
 - *2023.09* **National Scholarship** **(<u>Twice</u>)** (国家奖学金) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
