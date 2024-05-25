@@ -38,7 +38,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 - *2024.05:* I serve as a reviewer for NeurIPS'24.
 
-- *2024.05:* Our survey about Graph Neural Networks in Epidemic Modeling is accepted. See you in Barcelona!
+- *2024.05:* ✨✨✨ Our survey about Graph Neural Networks in Epidemic Modeling is accepted. See you in Barcelona!
 
 
 - *2024.05:* ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024 </strong>. See you in Austria!
