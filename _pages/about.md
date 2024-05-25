@@ -114,11 +114,12 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   </dd> -->
   <!-- <p><br /><br /></p> -->
 </dl>
+
 <br />
 <br />
 <br />
 
-
+---
 
 <dl>
   <dt><img align="left" width="400"
@@ -150,17 +151,10 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 
 <br/>
 <br/>
-<br/>
 
 
 
 ---
-
-
-
-
----
-
 
 
 <dl>
