@@ -38,6 +38,9 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 - *2024.05:* I serve as a reviewer for NeurIPS'24.
 
+- *2024.05:* Our survey about Graph Neural Networks in Epidemic Modeling is accepted. See you in Barcelona!
+
+
 - *2024.05:* ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024 </strong>. See you in Austria!
 
 - *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
@@ -117,6 +120,20 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 
 
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/episurvey.png">
+</dt>
+  <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
+<dd>Zewen Liu*, <strong><u>Guancheng Wan* (co-first)</u></strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>) (Lecture Track), 2024</dd>
+</dl>
+
+<br/>
+<br/>
+<br/>
+
+
 
 
 
@@ -128,7 +145,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
 <dd>Zihan Tan*, <strong><u>Guancheng Wan* (co-first)</u></strong>, Wenke Huang, Mang Ye</dd>
-    <dd>under review</dd>
+<dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), under review</dd>
 </dl>
 
 <br/>
@@ -139,20 +156,6 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 
 ---
 
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/episurvey.png">
-</dt>
-  <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu*, <strong><u>Guancheng Wan* (co-first)</u></strong>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
-    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), under review</dd>
-</dl>
-
-<br/>
-<br/>
-<br/>
 
 
 
