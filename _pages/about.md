@@ -22,7 +22,7 @@ redirect_from:
 My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate student at the School of Computer Science, Wuhan University (WHU), supervised by [Mang Ye](https://marswhu.github.io/index.html). I also worked with [Nitesh V Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ), [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao) and [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en).  My research interest lies in graph mining, where I made efforts to build an efficient, scalable, trustworthy, and robust system for learning graph-structured data.
 
 
-I'm actively applying for a Ph.D. position in 2025 Fall!
+🌟 I'm actively applying for a Ph.D. position in 2025 Fall!
 
 
 <!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
