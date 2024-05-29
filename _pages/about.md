@@ -30,7 +30,13 @@ My name is Guancheng Wan (万冠呈), I'm currently a junior undergraduate stude
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
-I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: a) Graph Learning for X: Scientific Discovery and Public Health b) TrustWorthy Graph Learning and c) Unsupervised Graph Learning.
+I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: 
+
+a) Graph Learning for X (Scientific Discovery and Public Health)
+
+b) TrustWorthy Graph Learning
+
+c) Unsupervised Graph Learning.
 
 <br/>
 
