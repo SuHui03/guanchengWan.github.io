@@ -228,11 +228,10 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 
 # Miscellaneous
-[泛化图学习与本科生科研经历分享](https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af)
+
 <details>
   <summary><strong>Talks and Shares</strong></summary>
-  
-[泛化图学习与本科生科研经历分享](https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af)
+<dd><a href="https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af"><strong>泛化图学习与本科生科研经历分享</strong></a></dd>
 
 
 </details>
