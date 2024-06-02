@@ -225,6 +225,22 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
 
 
-Handwriting of my Chinese name:)
+
+
+# Miscellaneous
+
+Handwriting of my Chinese name:
 <dl><img align="left" height="auto"  width="130"
  src="../images/handwrite.png"></dl>
+
+<br/>
+<br/>
+<br/>
+
+
+<details>
+  <summary><strong>Talks and Shares</strong></summary>
+  
+  - [【GeoScience Café 第 382 期】泛化图学习与本科生科研经历分享_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af)
+
+  
