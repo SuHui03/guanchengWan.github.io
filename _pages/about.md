@@ -229,18 +229,22 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 # Miscellaneous
 
+<details>
+  <summary><strong>Talks and Shares</strong></summary>
+  
+  - [泛化图学习与本科生科研经历分享](https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af)
+
+</details>
+
+<br/>
+
 Handwriting of my Chinese name:
 <dl><img align="left" height="auto"  width="130"
  src="../images/handwrite.png"></dl>
 
 <br/>
+
 <br/>
-<br/>
 
 
-<details>
-  <summary><strong>Talks and Shares</strong></summary>
-  
-  - [【GeoScience Café 第 382 期】泛化图学习与本科生科研经历分享_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af)
 
-  
