@@ -48,7 +48,7 @@ c) Unsupervised Graph Learning
 - *2024.05:* ✨✨✨ Our survey about Graph Neural Networks in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!
 
 
-- *2024.05:* ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024 </strong>. See you in Austria!
+- *2024.05:* ✨✨✨ Happy that our paper about self-supervised graph learning was accepted by <strong>ICML 2024 </strong>. See you in Austria!
 
 - *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
 
