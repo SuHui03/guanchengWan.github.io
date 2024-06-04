@@ -36,7 +36,7 @@ a) Graph Learning for X (Scientific Discovery and Public Health)
 
 b) TrustWorthy Graph Learning
 
-c) Unsupervised Graph Learning
+c) Self-supervised Graph Learning
 
 <br/>
 
