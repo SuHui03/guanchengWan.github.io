@@ -79,8 +79,6 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 <br />
 <br />
 <br />
-<br />
-<br />
 
 ---
 
@@ -121,14 +119,8 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
   <dd>Wenke Huang*, <strong><u>Guancheng Wan*</u></strong>(co-first), Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
-  <!-- <dd>
-    <a href="https://marswhu.github.io/publications/files/FGSSL.pdf">[Paper]</a> 
-    <a href="">[Code]</a>
-  </dd> -->
-  <!-- <p><br /><br /></p> -->
 </dl>
 
-<br />
 <br />
 <br />
 
@@ -152,8 +144,6 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 <br/>
 <br/>
 
-
-
 ---
 
 
@@ -164,7 +154,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
   <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du,  Qiang Yang
   </dd>
-    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), Under Review</dd>
+    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), Minor Revision</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
 </dl>
 
