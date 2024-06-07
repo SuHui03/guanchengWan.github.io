@@ -35,6 +35,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 # 🔥 News
 
+<div style="max-height: 200px; overflow-y: auto;">
 
 - *2024.05:* ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024 </strong>. See you in Austria!
 
@@ -51,7 +52,7 @@ I am enthusiastic about immersing myself in the field of artificial intelligence
 
 - *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
 CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
-
+</div>
 <br/>
 
 
