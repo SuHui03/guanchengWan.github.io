@@ -84,10 +84,10 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 
 ---
 
-<dl>
+<dl >
   <dt><img align="left"  width="400"
  wspace="20" hspace="10" src="../images/fggp.png"></dt>
-  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
+  <dd ><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
   <dd><strong><u>Guancheng Wan</u></strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
 
