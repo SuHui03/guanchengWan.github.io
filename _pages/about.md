@@ -78,7 +78,9 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 
 <br />
 <br />
-<!-- <br /> -->
+<br />
+<br />
+<br />
 
 ---
 
@@ -121,7 +123,7 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 
 <br />
 <br />
-<!-- <br /> -->
+<br />
 
 ---
 
