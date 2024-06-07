@@ -41,7 +41,7 @@ c) Self-supervised Graph Learning
 <br/>
 
 # 🔥 News
-
+<dl>
 <div style="max-height: 200px; overflow-y: auto;">
 
 - *2024.05:* I serve as a reviewer for <strong>NeurIPS 2024</strong>.
@@ -68,6 +68,7 @@ c) Self-supervised Graph Learning
 - *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
 CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)* and presented our work in Macao.
 </div>
+</dl>
 <br/>
 
 
