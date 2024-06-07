@@ -70,13 +70,7 @@ c) Self-supervised Graph Learning
 CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)* and presented our work in Macao.
 
 </div>
-
-
-
 <br/>
-
-
-
 
 # 📃 Publications 
 
