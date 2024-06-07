@@ -44,32 +44,17 @@ c) Self-supervised Graph Learning
 
 
 <div style="max-height: 200px; overflow-y: auto;">
-
-- *2024.05:* I serve as a reviewer for <strong>NeurIPS 2024</strong>.
-
-- *2024.05:* ✨✨✨ Our survey about Graph Neural Networks in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!
-
-
-- *2024.05:* ✨✨✨ Happy that our paper about self-supervised graph learning was accepted by <strong>ICML 2024 </strong>. See you in Austria!
-
-- *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
-
-- *2024.02:* I serve as a reviewer for <strong>ECCV 2024</trong>.
-  
-- *2023.12:* A paper was accepted to <strong>AAAI 2024</strong>. See you in Vancouver.
-
-- *2023.11:* I serve as a reviewer for <strong>CVPR 2024<strong>.
-
-- *2023.11:* 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
-
-- *2023.10:* I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).
-
-- *2023.10:* I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student  (Award Rate: 60/59774=0.1%).
-
-- *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
-CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)* and presented our work in Macao.
-
+<ul>
+  <li><em>2024.05:</em> ✨✨✨ Very happy that my paper was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
+  <li><em>2024.04:</em> 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected <a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">paper list</a>.</li>
+  <li><em>2023.12:</em> A paper was accepted to AAAI 2024. See you in Vancouver.</li>
+  <li><em>2023.11:</em> 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our <a href="https://github.com/WenkeHuang/MarsFL">benchmarking codes</a> for your own research goal!</li>
+  <li><em>2023.10:</em> I attended China National Computer Congress (CNCC) and was awarded the honor of CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide).</li>
+  <li><em>2023.10:</em> I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student (Award Rate: 60/59774=0.1%).</li>
+  <li><em>2023.08:</em> We attended <em>The 32nd INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)</em> and presented our work in Macao.</li>
+</ul>
 </div>
+
 <br/>
 
 # 📃 Publications 
