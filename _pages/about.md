@@ -44,7 +44,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 
-- *2024.05:* I serve as a reviewer for NeurIPS'24.
+- *2024.05:* I serve as a reviewer for <strong>NeurIPS 2024</strong>.
 
 - *2024.05:* ✨✨✨ Our survey about Graph Neural Networks in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!
 
@@ -53,11 +53,11 @@ c) Self-supervised Graph Learning
 
 - *2024.04:* 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected [paper list](https://github.com/Emory-Melody/awesome-epidemic-modeling-papers).
 
-- *2024.02:* I serve as a reviewer for ECCV'24.
+- *2024.02:* I serve as a reviewer for <strong>ECCV 2024</trong>.
   
-- *2023.12:* A paper was accepted to AAAI 2024. See you in Vancouver.
+- *2023.12:* A paper was accepted to <strong>AAAI 2024</strong>. See you in Vancouver.
 
-- *2023.11:* I serve as a reviewer for CVPR'24.
+- *2023.11:* I serve as a reviewer for <strong>CVPR 2024<strong>.
 
 - *2023.11:* 🚀🚀🚀 We thoroughly explore three core research areas in federated learning: generalization, robustness, and fairness. Don't hesitate to utilize our [benchmarking codes](https://github.com/WenkeHuang/MarsFL) for your own research goal!     
 
@@ -66,7 +66,7 @@ c) Self-supervised Graph Learning
 - *2023.10:* I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student  (Award Rate: 60/59774=0.1%).
 
 - *2023.08:* We attended *The 32nd INTERNATIONAL JOINT
-CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI)* and presented our work in Macao.
+CONFERENCE ON ARTIFICIAL INTELLIGENCE (<strong>IJCAI</strong>)* and presented our work in Macao.
 </div>
 <br/>
 
