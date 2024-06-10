@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guancheng Wan's Homepage"
-description              : "Undergraduate student"
+description              : ""
 repository               : "GuanchengWan/guanchengWan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guancheng Wan"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Wuhan University"
+  bio              : "Undergraduate student"
   location         : "Wuhan, Hubei, China"
   employer         :
   pubmed           : 
