@@ -64,7 +64,7 @@ c) Self-supervised Graph Learning
 
 # 📃 Publications 
 
-$^*$: **Equal Contribution**   
+**&dagger; Equal Contribution**   
 
 <dl>
   <dt><img align="left" width="400"
