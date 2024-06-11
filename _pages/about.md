@@ -104,7 +104,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu*, <strong><u>Guancheng Wan* </u></strong>(co-first), B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+<dd>Zewen Liu&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
     <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>) (Lecture Style), 2024</dd>
 </dl>
 
@@ -118,7 +118,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang*, <strong><u>Guancheng Wan*</u></strong>(co-first), Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang&dagger;, <strong><u>Guancheng Wan&dagger;</u></strong>(co-first), Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
@@ -136,7 +136,7 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
-<dd>Zihan Tan*, <strong><u>Guancheng Wan* </u></strong>(co-first), Wenke Huang, Mang Ye</dd>
+<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Wenke Huang, Mang Ye</dd>
 <dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), under review</dd>
 </dl>
 
