@@ -175,7 +175,9 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 # 🎖 Scholarships and Honors
 
-- 2024.04 **CS Pioneer** (10 Students department-wide) *Wuhan University*
+- 2024.06 **SenseTime Scholarship** (商汤奖学金) (25 Students nation-wide) *SenseTime*
+
+- 2024.04 **CS Pioneer** (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
 
 - 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
