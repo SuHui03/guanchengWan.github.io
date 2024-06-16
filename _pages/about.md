@@ -45,6 +45,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.06:</em> ✨✨✨ Our survey is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
   <li><em>2024.05:</em> I serve as a reviewer for <strong>NeurIPS 2024</strong>.</li>
   <li><em>2024.05:</em> ✨✨✨ Our survey about Graph Neural Networks in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
   <li><em>2024.05:</em> ✨✨✨ Happy that our paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
@@ -126,6 +127,27 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 <br />
 <br />
 
+
+
+---
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/flsurvey.png">
+</dt>
+  <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du,  Qiang Yang
+  </dd>
+    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
+    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
+</dl>
+
+<br/>
+<br/>
+<br/>
+
+
 ---
 
 
@@ -143,21 +165,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 <br/>
 <br/>
 
----
 
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/flsurvey.png">
-</dt>
-  <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du,  Qiang Yang
-  </dd>
-    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), Minor Revision</dd>
-    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
-</dl>
-
-<br/>
 <!-- <br/> -->
 <!-- <br/> -->
 
