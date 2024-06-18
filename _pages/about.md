@@ -183,9 +183,9 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 
 # 🎖 Scholarships and Honors
 
-- 2024.06 **SenseTime Scholarship** (商汤奖学金) (25 Students nation-wide) *SenseTime*
+- 2024.06 <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) (25 Students nation-wide) *SenseTime*
 
-- 2024.04 **CS Pioneer** (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
+- 2024.04 <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
 
 - 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
