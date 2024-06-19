@@ -184,7 +184,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 # 🎖 Scholarships and Honors
 
 
-- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Lei Jun Computer Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
+- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
 
 - *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) (**25 Students nation-wide**) *SenseTime*
 
