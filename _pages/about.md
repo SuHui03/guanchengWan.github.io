@@ -183,11 +183,14 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 
 # 🎖 Scholarships and Honors
 
-- 2024.06 <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) (25 Students nation-wide) *SenseTime*
 
-- 2024.04 <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
+- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Lei Jun Computer Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
 
-- 2023.10 **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
+- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) (**25 Students nation-wide**) *SenseTime*
+
+- *2024.04* <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
+
+- *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
 - *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
 - *2023.09* **National Scholarship** **(<u>Twice</u>)** (国家奖学金) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
