@@ -32,7 +32,7 @@ My name is Guancheng Wan (万冠呈), I'm currently a 3<sup>rd</sup>-year underg
 # 🔎 Research 
 I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: 
 
-a) Graph Learning for X (Scientific Discovery and Public Health)
+a) Graph in Science (Biotechnology and Public Health)
 
 b) TrustWorthy Graph Learning
 
@@ -45,10 +45,10 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.06:</em> ✨✨✨ Our survey is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
+  <li><em>2024.06:</em> ✨✨✨ One paper is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
   <li><em>2024.05:</em> I serve as a reviewer for <strong>NeurIPS 2024</strong>.</li>
-  <li><em>2024.05:</em> ✨✨✨ Our survey about Graph Neural Networks in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
-  <li><em>2024.05:</em> ✨✨✨ Happy that our paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
+  <li><em>2024.05:</em> ✨✨✨ Our survey about GNNs in Epidemic Modeling is accepted by <strong>KDD 2024</strong>. See you in Barcelona!</li>
+  <li><em>2024.05:</em> ✨✨✨ One paper about self-supervised graph learning was accepted by <strong>ICML 2024</strong>. See you in Austria!</li>
   <li><em>2024.04:</em> 🚀🚀🚀 Explore our pre-print: a deep look at using Graph Neural Networks in Epidemic Modeling. Check our collected <a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">paper list</a>.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>ACM MM 2024</strong>.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>ECCV 2024</strong>.</li>
