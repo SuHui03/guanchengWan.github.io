@@ -30,12 +30,12 @@ My name is Guancheng Wan (万冠呈), I'm currently a 3<sup>rd</sup>-year underg
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
-I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: 
+I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on geometric data. Currently, my research interests revolve around three primary areas: 
 
-a) Graph in Science:  
-- Biotechnology 
+a) AI for Science:  
+- Biotechnology (*e.g.*, Omics)
 
-- Epidemiology
+- Public Health (*e.g.*, Epidemiology)
 
 b) TrustWorthy Graph Learning
 
