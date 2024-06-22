@@ -119,7 +119,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://marswhu.github.io/publications/files/FGSSL.pdf"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang&dagger;, <strong><u>Guancheng Wan&dagger;</u></strong>(co-first), Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
@@ -148,10 +148,10 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <br/>
 
 
----
 
 
-<!-- # 📝 Manuscripts -->
+
+# 📝 Manuscripts
 
 <dl>
   <dt><img align="left" width="400"
@@ -166,8 +166,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 <br/>
 
 
-<!-- <br/> -->
-<!-- <br/> -->
+
 
 <br/>
 
