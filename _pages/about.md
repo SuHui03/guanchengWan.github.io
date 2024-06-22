@@ -32,7 +32,10 @@ My name is Guancheng Wan (万冠呈), I'm currently a 3<sup>rd</sup>-year underg
 # 🔎 Research 
 I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on graph data. Currently, my research interests revolve around three primary areas: 
 
-a) Graph in Science (Biotechnology and Epidemiology)
+a) Graph in Science:  
+- Biotechnology 
+
+- Epidemiology
 
 b) TrustWorthy Graph Learning
 
