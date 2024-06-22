@@ -106,7 +106,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
 <dd>Zewen Liu&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
-    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>) (Lecture Style), 2024</dd>
+    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
 </dl>
 
 <br/>
