@@ -38,6 +38,8 @@ a) AI for Science:
 
 - Public Health (*e.g.*, Epidemiology)
 
+- Physics (*e.g.*, Neural ODE, PINN)
+
 b) TrustWorthy Graph Learning
 
 c) Self-supervised Graph Learning
