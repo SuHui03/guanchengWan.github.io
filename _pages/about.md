@@ -31,7 +31,9 @@ My name is Guancheng Wan (万冠呈), I'm currently a 3<sup>rd</sup>-year underg
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
-I am enthusiastic about immersing myself in the field of artificial intelligence, particularly focusing on geometric data. Currently, my research interests revolve around three primary areas: 
+"All things are interconnected, this is the essence of nature."
+
+I am enthusiastic about modeling relationship of these connections, particularly focusing on <u>geometric data</u>. Currently, my research interests revolve around three primary areas: 
 
 a) AI for Science:  
 - Biotechnology (*e.g.*, Omics)
