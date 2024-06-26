@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
   dl {
-    margin-bottom: 100px; /* 调整这个值以获得合适的间距 */
+    margin-bottom: 60px; /* 调整这个值以获得合适的间距 */
     clear: both;
   }
 
@@ -108,6 +108,8 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
     <dd><strong> International Conference on Machine Learning (ICML), 2024 </strong></dd>
 </dl>
 
+<br/>
+<br/>
 
 <hr>
 
@@ -161,8 +163,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 </dl>
 
 
-<br/>
-<br/>
+
 
 
 # 📝 Manuscripts
@@ -177,7 +178,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 </dl>
 
 <br/>
-<br/>
+
 
 
 
