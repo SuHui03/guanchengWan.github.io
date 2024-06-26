@@ -16,19 +16,16 @@ redirect_from:
 
   img {
     display: block;
-    margin: 0 10px; /* 图片居中 */
+    margin: 0px 10px 10px 0px; /* 图片居中 上右下左*/ 
     max-width: 100%; /* 限制图片最大宽度 */
   }
 
   hr {
     border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
-    margin: 10px; /* 调整分隔线上下的间距 */
-    clear: both; /* 确保清除浮动 */
+    /* margin: 10px;  */
+    clear: both; 
   }
 
-  .publication-block {
-    overflow: hidden; /* 清除浮动 */
-  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -108,10 +105,8 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
     <dd><strong> International Conference on Machine Learning (ICML), 2024 </strong></dd>
 </dl>
 
-<br/>
-<br/>
 
-<hr>
+<hr >
 
 
 <dl >
@@ -138,6 +133,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 </dl>
 
 <hr>
+
 
 
 <dl>
