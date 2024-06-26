@@ -16,7 +16,7 @@ redirect_from:
 
   img {
     display: block;
-    margin: 0 auto; /* 图片居中 */
+    margin: 0 10px; /* 图片居中 */
     max-width: 100%; /* 限制图片最大宽度 */
   }
 
