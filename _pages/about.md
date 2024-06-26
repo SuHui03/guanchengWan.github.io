@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
   dl {
-    margin-bottom: 0px; /* 调整这个值以获得合适的间距 */
+    margin-bottom: 100px; /* 调整这个值以获得合适的间距 */
     clear: both;
   }
 
@@ -21,7 +21,7 @@ redirect_from:
   }
 
   hr {
-    border: 1px solid #ccc; /* 调整分隔线的颜色和样式 */
+    border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
     margin: 10px; /* 调整分隔线上下的间距 */
     clear: both; /* 确保清除浮动 */
   }
@@ -97,7 +97,7 @@ c) Self-supervised Graph Learning
 # 📃 Publications 
 
 **&dagger; Equal Contribution**   
-<div class="publication-block">
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
@@ -107,18 +107,10 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 <dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
     <dd><strong> International Conference on Machine Learning (ICML), 2024 </strong></dd>
 </dl>
-<div >
+
 
 <hr>
-<!-- <br />
-<br />
-<br />
-<br />
-<br /> -->
 
-<!-- <hr> -->
-
-<!-- --- -->
 
 <dl >
   <dt><img align="left"  width="400"
@@ -131,11 +123,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 
 <hr>
 
-<!-- <br />
-<br />
-<br /> -->
 
-<!-- --- -->
 
 <dl >
   <dt><img align="left" width="400"
@@ -148,14 +136,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 
 <hr>
 
-<!-- <br/>
-<br/>
-<br /> -->
 
-<!-- <br/> -->
-
-
-<!-- --- -->
 <dl>
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
@@ -164,13 +145,8 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
-<br />
-<br />
-<br />
+<hr>
 
-
-
----
 
 
 <dl>
@@ -184,12 +160,9 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
 </dl>
 
+
 <br/>
 <br/>
-<br/>
-
-
-
 
 
 # 📝 Manuscripts
@@ -207,9 +180,6 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 <br/>
 
 
-
-
-<br/>
 
 # 🎡 Service
 - Reviewer for NeurIPS'2024
