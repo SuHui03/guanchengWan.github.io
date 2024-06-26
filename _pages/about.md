@@ -8,6 +8,29 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  dl {
+    margin-bottom: 0px; /* 调整这个值以获得合适的间距 */
+    clear: both;
+  }
+
+  img {
+    display: block;
+    margin: 0 auto; /* 图片居中 */
+    max-width: 100%; /* 限制图片最大宽度 */
+  }
+
+  hr {
+    border: 1px solid #ccc; /* 调整分隔线的颜色和样式 */
+    margin: 10px; /* 调整分隔线上下的间距 */
+    clear: both; /* 确保清除浮动 */
+  }
+
+  .publication-block {
+    overflow: hidden; /* 清除浮动 */
+  }
+</style>
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
@@ -74,7 +97,7 @@ c) Self-supervised Graph Learning
 # 📃 Publications 
 
 **&dagger; Equal Contribution**   
-
+<div class="publication-block">
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
@@ -84,14 +107,18 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 <dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
     <dd><strong> International Conference on Machine Learning (ICML), 2024 </strong></dd>
 </dl>
+<div >
 
+<hr>
+<!-- <br />
 <br />
 <br />
 <br />
-<br />
-<br />
+<br /> -->
 
----
+<!-- <hr> -->
+
+<!-- --- -->
 
 <dl >
   <dt><img align="left"  width="400"
@@ -101,14 +128,16 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
 
 </dl>
-<br />
-<br />
-<br />
-<!-- <br /> -->
 
----
+<hr>
 
-<dl>
+<!-- <br />
+<br />
+<br /> -->
+
+<!-- --- -->
+
+<dl >
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
@@ -117,12 +146,16 @@ hspace="10" wspace="20" src="../images/episurvey.png">
     <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
 </dl>
 
+<hr>
+
+<!-- <br/>
 <br/>
-<br/>
+<br /> -->
+
 <!-- <br/> -->
 
 
----
+<!-- --- -->
 <dl>
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
