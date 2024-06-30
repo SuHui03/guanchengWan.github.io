@@ -40,7 +40,6 @@ redirect_from:
 
 
 My name is Guancheng Wan (万冠呈), I'm a 3<sup>rd</sup>-year undergraduate student at the School of Computer Science, Wuhan University, supervised by [Mang Ye](https://marswhu.github.io/index.html). I'm currently a research intern at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao). I also worked with [Nitesh V Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ),  and [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en).  
-<a href='https://scholar.google.com/citations?user=pB8zP9UAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 
 🌟 I'm actively applying for a Ph.D. position in 2025 Fall!
@@ -51,7 +50,8 @@ My name is Guancheng Wan (万冠呈), I'm a 3<sup>rd</sup>-year undergraduate st
 <!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
-"All things are interconnected, this is the essence of nature."
+"All things are interconnected, this is the essence of nature." 
+
 
 I am enthusiastic about modeling the relationship of these connections, particularly focusing on <u>geometric data</u>. Currently, my research interests revolve around three primary areas: 
 
