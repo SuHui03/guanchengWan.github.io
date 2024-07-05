@@ -172,7 +172,8 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
 <dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Wenke Huang, Mang Ye</dd>
-<dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), under review</dd>
+<dd>under review</dd>
+<!-- The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>),  -->
 </dl>
 
 <br/>
