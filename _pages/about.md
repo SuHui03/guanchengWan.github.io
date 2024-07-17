@@ -55,12 +55,12 @@ My name is Guancheng Wan (万冠呈), I'm a 3<sup>rd</sup>-year undergraduate st
 
 I am enthusiastic about modeling the relationship of these connections, particularly focusing on <u>geometric data</u>. Currently, my research interests revolve around three primary areas: 
 
-a) AI for Science:  
-- Biotechnology (*e.g.*, Genomics)
+a) Graph in Science:  
+- Bioinformatics (*e.g.*, Genomics)
 
 - Public Health (*e.g.*, Epidemiology)
 
-- Physics (*e.g.*, Neural ODE, PINN)
+- Physics (*e.g.*, Neural ODE, Neural Operator)
 
 b) TrustWorthy Graph Learning
 
@@ -182,11 +182,13 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 
 
 # 🎡 Service
+- Reviewer for LoG'2024
 - Reviewer for NeurIPS'2024
 - Reviewer for ECML PKDD'2024
 - Reviewer for ACM MM'2024
 - Reviewer for ECCV'2024
 - Reviewer for CVPR'2024
+- Reviewer for AAAI'2024
 
 
 <br/>
@@ -230,8 +232,16 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
   <summary><strong>Talks and Shares</strong></summary>
 <dd><a href="https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af"><strong>泛化图学习与本科生科研经历分享</strong></a></dd>
 
+<dd><a href="https://www.bilibili.com/video/BV1UM4m127uT/?spm_id_from=333.999.0.0"><strong>VALSE Share: Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
 
 </details>
+
+<details>
+  <summary><strong>Poems That Inspire Me</strong></summary>
+  <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
+
+</details>
+
 
 <br/>
 
