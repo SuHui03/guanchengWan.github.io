@@ -182,14 +182,18 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 
 
 # 🎡 Service
+## Conference Reviewer 
 - Reviewer for LoG'2024
 - Reviewer for NeurIPS'2024
-- Reviewer for ECML PKDD'2024
+- Reviewer for PKDD'2024
 - Reviewer for ACM MM'2024
 - Reviewer for ECCV'2024
 - Reviewer for CVPR'2024
 - Reviewer for AAAI'2024
 
+##  Journal Reviewer
+- Reviewer for TKDE
+- Reviewer for DMLR
 
 <br/>
 
