@@ -26,6 +26,26 @@ redirect_from:
     clear: both; 
   }
 
+
+  dl dd {
+  color: #666; 
+  }
+
+  dl dd strong {
+  font-weight: bold;
+  color: black;
+  }
+
+  /* 下面添加publications部分的类选择器 */
+  .publications {
+  color: #333;
+  }
+
+  .publications strong {
+  font-weight: bold;
+  color: black; 
+  }
+
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
