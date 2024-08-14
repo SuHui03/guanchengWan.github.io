@@ -198,7 +198,8 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 </dl>
 
 
-<br/>
+<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -213,7 +214,8 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 </dl>
 
 
-<br/>
+<hr>
+
 
 
 <dl>
