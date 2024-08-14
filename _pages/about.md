@@ -186,17 +186,49 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 # 📝 Manuscripts
 
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/EARTH.png">
+</dt>
+  <dd><a href=""><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
+<dd><strong><u>Guancheng Wan</u></strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
+<dd>under review, 2024</dd>
+
+</dl>
+
+
+<br/>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedSPA.png">
+</dt>
+  <dd><a href=""><strong>	
+Generalizable Federated Graph Learning under Homophily Heterogeneity
+</strong></a></dd>
+<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Yijun Tian, Wenke Huang, He Li, Bo Du, Mang Ye, Nitesh V Chawla</dd>
+<dd>under review, 2024</dd>
+
+</dl>
+
+
+<br/>
+
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
 <dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Wenke Huang, Mang Ye</dd>
-<dd>under review</dd>
+<dd>under review, 2024</dd>
 <!-- The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>),  -->
 </dl>
 
 <br/>
+
+
 
 
 
