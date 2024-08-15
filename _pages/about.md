@@ -46,6 +46,10 @@ redirect_from:
   color: black; 
   }
 
+    .co-first {
+    color: red;
+  }
+
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -147,7 +151,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2403.19852"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+<dd>Zewen Liu&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
     <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
     <dd><a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">Project Page</a></dd>
 </dl>
@@ -239,7 +243,6 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 ## Conference Reviewer 
 - Reviewer for LoG'2024
 - Reviewer for NeurIPS'2024
-- Reviewer for PKDD'2024
 - Reviewer for ACM MM'2024
 - Reviewer for ECCV'2024
 - Reviewer for CVPR'2024
