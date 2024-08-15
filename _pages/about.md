@@ -164,7 +164,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.18937"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
@@ -212,7 +212,7 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
   <dd><a href=""><strong>	
 Generalizable Federated Graph Learning under Homophily Heterogeneity
 </strong></a></dd>
-<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Yijun Tian, Wenke Huang, He Li, Bo Du, Mang Ye, Nitesh V Chawla</dd>
+<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Yijun Tian, Wenke Huang, He Li, Bo Du, Mang Ye, Nitesh V Chawla</dd>
 <dd>under review, 2024</dd>
 
 </dl>
@@ -227,7 +227,7 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
-<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong>(co-first), Wenke Huang, Mang Ye</dd>
+<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Mang Ye</dd>
 <dd>under review, 2024</dd>
 <!-- The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>),  -->
 </dl>
