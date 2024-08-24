@@ -29,7 +29,9 @@ redirect_from:
 
   dl dd {
   color: #666; 
-  }
+  margin-top: 5px; 
+  margin-bottom: 5px;
+}
 
   dl dd strong {
   font-weight: bold;
