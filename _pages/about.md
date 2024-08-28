@@ -81,7 +81,7 @@ My name is Guancheng Wan (万冠呈), I'm a 3<sup>rd</sup>-year undergraduate st
 
 I am enthusiastic about modeling the relationship of these connections, particularly focusing on <u>geometric data</u>. Currently, my research interests revolve around three primary areas: 
 
-a) Graph in Science:  
+a) AI for Science:  
 - Bioinformatics (*e.g.*, Genomics)
 
 - Public Health (*e.g.*, Epidemiology)
