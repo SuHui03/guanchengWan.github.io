@@ -239,12 +239,8 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 <br/>
 
 
-
-
-
-
 # 🎡 Service
-## Conference Reviewer 
+## Conference Committee Member
 - Reviewer for ICLR'2025
 - Reviewer for NeurIPS'2024
 - Reviewer for CVPR'2024
