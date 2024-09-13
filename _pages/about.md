@@ -127,7 +127,7 @@ c) Self-supervised Graph Learning
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 </dt>
-  <dd><a href="https://icml.cc/virtual/2024/poster/32616"><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
+  <dd><a href="https://proceedings.mlr.press/v235/wan24g.html"><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
 </strong></a></dd>
 <dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
     <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2024 </dd>
