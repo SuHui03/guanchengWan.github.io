@@ -302,6 +302,9 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 <details>
   <summary><strong>Poems That Inspire Me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
+  <dd><strong>世界不黑也不白,而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
+
+  
 
 </details>
 
