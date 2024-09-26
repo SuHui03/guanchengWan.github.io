@@ -275,8 +275,9 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 ##  Journal Reviewer
 - Reviewer for IEEE Transactions on Information Forensics and Security (TIFS)
 - Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- Reviewer for Data-centric Machine Learning Research (DMLR)
 - Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- Reviewer for Data-centric Machine Learning Research (DMLR)
+
 
 <br/>
 
