@@ -99,6 +99,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>, congrats to Wenke and Zihan! See you in Vancouver.</li>
   <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
   <li><em>2024.08:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
   <li><em>2024.06:</em> ✨✨✨ One paper is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
@@ -150,6 +151,19 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 
 
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedSSP.png">
+</dt>
+  <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
+<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huangn &dagger;, Mang Ye</dd>
+<dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+</dl>
+
+
+<hr>
+
+
 <dl >
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/episurvey.png">
@@ -186,6 +200,24 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
     <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
 </dl>
+
+
+<hr>
+
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FDCR.png">
+</dt>
+  <dd><a href=""><strong>	
+Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning</strong></a></dd>
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du
+  </dd>
+  <dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+    
+</dl>
+
 
 
 
@@ -226,15 +258,6 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 
 
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedSSP.png">
-</dt>
-  <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
-<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Mang Ye</dd>
-<dd>under review, 2024</dd>
-<!-- The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>),  -->
-</dl>
 
 <br/>
 
