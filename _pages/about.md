@@ -157,7 +157,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
 <dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huangn &dagger;, Mang Ye</dd>
-<dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+<dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
 
 
@@ -214,7 +214,7 @@ hspace="10" wspace="20" src="../images/FDCR.png">
 Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning</strong></a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du
   </dd>
-  <dd>The Thirty-eighth Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
     
 </dl>
 
