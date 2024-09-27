@@ -320,16 +320,28 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
   <summary><strong>Talks and Shares</strong></summary>
 <dd><a href="https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af"><strong>泛化图学习与本科生科研经历分享</strong></a></dd>
 
-<dd><a href="https://www.bilibili.com/video/BV1UM4m127uT/?spm_id_from=333.999.0.0"><strong>VALSE Share: Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
+
+
 
 </details>
+
+
+<details>
+  <summary><strong>Undergraduate research resource and enrollment process</strong></summary>
+
+<dd><a href="https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd"><strong>Link</strong></a></dd>
+
+
+</details>
+
+
 
 <details>
   <summary><strong>Poems That Inspire Me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
   <dd><strong>世界不黑也不白,而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
 
-  
+
 
 </details>
 
