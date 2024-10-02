@@ -231,7 +231,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/EARTH.png">
 </dt>
-  <dd><a href=""><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
+  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
 <dd><strong><u>Guancheng Wan</u></strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
 <dd>under review, 2024</dd>
 
@@ -266,6 +266,7 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 ## Conference Committee Member
 - Reviewer for ICLR'2025
 - Reviewer for NeurIPS'2024
+- Reviewer for AISTATS'2025
 - Reviewer for CVPR'2024
 - Reviewer for ECCV'2024
 - Reviewer for AAAI'2024, 2025
@@ -293,11 +294,11 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 - *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
 - *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
-- *2023.09* **National Scholarship** **(<u>Twice</u>)** (国家奖学金 ) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**国家奖学金**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 - *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 
 - *2022.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
-- *2022.09* **National Scholarship** (国家奖学金) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+- *2022.09* **National Scholarship** (**国家奖学金**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
 - *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
 
