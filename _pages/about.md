@@ -307,7 +307,7 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 <br/>
 
 # 📖 Educations
-- *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University, China. 
+- *2021.09 - Now*, Undergraduate, School of Computer Science, Wuhan University, China (GPA:3.9/4.0, Rank:1/252) 
 
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
