@@ -267,7 +267,7 @@ Generalizable Federated Graph Learning under Homophily Heterogeneity
 - Reviewer for ICLR'2025
 - Reviewer for NeurIPS'2024
 - Reviewer for AISTATS'2025
-- Reviewer for CVPR'2024
+- Reviewer for CVPR'2024,2025
 - Reviewer for ECCV'2024
 - Reviewer for AAAI'2024, 2025
 - Reviewer for ACM MM'2024
