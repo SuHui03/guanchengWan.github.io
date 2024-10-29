@@ -28,7 +28,7 @@ redirect_from:
 
 
   dl dd {
-  color: #; 
+  color: #fff; 
   margin-top: 5px; 
   margin-bottom: 5px;
 }
