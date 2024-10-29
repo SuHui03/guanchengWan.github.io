@@ -28,7 +28,7 @@ redirect_from:
 
 
   dl dd {
-  color: #666; 
+  color: #; 
   margin-top: 5px; 
   margin-bottom: 5px;
 }
@@ -38,17 +38,8 @@ redirect_from:
   color: black;
   }
 
-  /* 下面添加publications部分的类选择器 */
-  .publications {
-  color: #fff;
-  }
 
-  .publications strong {
-  font-weight: bold;
-  color: black; 
-  }
-
-    .co-first {
+  .co-first {
     color: red;
   }
 
