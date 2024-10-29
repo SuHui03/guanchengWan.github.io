@@ -40,7 +40,7 @@ redirect_from:
 
   /* 下面添加publications部分的类选择器 */
   .publications {
-  color: #333;
+  color: #fff;
   }
 
   .publications strong {
