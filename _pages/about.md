@@ -234,13 +234,14 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedSPA.png">
+hspace="10" wspace="20" src="../images/FedTGE.png">
 </dt>
   <dd><a href=""><strong>	
-Generalizable Federated Graph Learning under Homophily Heterogeneity
+Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Yijun Tian, Wenke Huang, He Li, Bo Du, Mang Ye</dd>
+<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd>under review, 2024</dd>
+
 
 </dl>
 
