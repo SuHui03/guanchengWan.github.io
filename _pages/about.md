@@ -90,7 +90,7 @@ c) Self-supervised Graph Learning
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
-  <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>, congrats to Wenke and Zihan! See you in Vancouver.</li>
+  <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
   <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
   <li><em>2024.08:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
   <li><em>2024.06:</em> ✨✨✨ One paper is accepted by <strong>TPAMI</strong>, congrats to all collaborators!</li>
