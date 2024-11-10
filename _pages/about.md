@@ -133,7 +133,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
-  <dd><a href=""><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
+  <dd><a href="https://arxiv.org/pdf/2410.20105"><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
 <dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
 <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
