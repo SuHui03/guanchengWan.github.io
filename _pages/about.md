@@ -231,7 +231,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 <hr>
 
-
+<!-- 
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedTGE.png">
@@ -246,7 +246,7 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 </dl>
 
 
-<hr>
+<hr> -->
 
 
 
