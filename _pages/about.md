@@ -229,10 +229,10 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 </dl>
 
 
-<br/>
+<hr>
 
 
-<!-- 
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedTGE.png">
@@ -240,14 +240,14 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
   <dd><a href=""><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
 <dd>under review, 2024</dd>
 
 
 </dl>
 
 
-<hr> -->
+<hr>
 
 
 
