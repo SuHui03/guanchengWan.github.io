@@ -58,7 +58,7 @@ redirect_from:
 My name is Guancheng Wan (万冠呈), I'm a 4<sup>th</sup>-year undergraduate student at the School of Computer Science, Wuhan University, supervised by [Mang Ye](https://marswhu.github.io/index.html). I'm currently a research intern at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao). I also worked with [Nitesh V Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ),  and [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en).  
 
 
-🌟 I'm actively applying for a Ph.D. position in 2025 Fall!
+🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
 
 <!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
@@ -325,9 +325,9 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 
 <details>
-  <summary><strong>Poems That Inspire Me</strong></summary>
+  <summary><strong>Poems that inspire me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
-  <dd><strong>世界不黑也不白,而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
+  <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
 
 
 
