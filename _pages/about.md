@@ -246,6 +246,36 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 </dl>
 
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedTGE.png">
+</dt>
+  <dd><a href=""><strong>	
+EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
+</strong></a></dd>
+<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
+<dd>under review, 2024</dd>
+
+
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedTGE.png">
+</dt>
+  <dd><a href=""><strong>	
+FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
+</strong></a></dd>
+<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
+<dd>under review, 2024</dd>
+
+
+</dl>
+
 
 <hr>
 
