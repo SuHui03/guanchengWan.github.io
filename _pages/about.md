@@ -250,7 +250,7 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedTGE.png">
+hspace="10" wspace="20" src="../images/EAGLES.png">
 </dt>
   <dd><a href=""><strong>	
 EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
@@ -265,7 +265,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedTGE.png">
+hspace="10" wspace="20" src="../images/FedSPA.png">
 </dt>
   <dd><a href=""><strong>	
 FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
