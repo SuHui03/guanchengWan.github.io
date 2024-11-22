@@ -304,7 +304,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* **Lei Jun Excellence Scholarship** (<u>**雷军卓越奖学金**</u>) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
+- *2024.11* **Lei Jun Excellence Scholarship** (**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
 
 - *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
 
