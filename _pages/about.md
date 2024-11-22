@@ -89,7 +89,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.11:</em> 🎈I was honored with the <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong>Top-4</strong> Undergraduate, Award Rate ~ <strong>0.01%</strong>)</li>
+  <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
   <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
   <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
@@ -304,7 +304,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* **Lei Jun Excellence Scholarship** (<u>**雷军卓越奖学金**</u>) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **Top-4** Undergraduate, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
+- *2024.11* **Lei Jun Excellence Scholarship** (<u>**雷军卓越奖学金**</u>) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
 
 - *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
 
