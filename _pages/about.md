@@ -90,6 +90,7 @@ c) Self-supervised Graph Learning
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
+  <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
   <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
   <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
   <li><em>2024.08:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
@@ -302,6 +303,8 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 <br/>
 
 # 🎖 Scholarships and Honors
+
+- *2024.11* **Lei Jun Excellence Scholarship** (**雷军卓越奖学金**) **~100k** (The **<u>Highest</u>** Scholarship in Wuhan University, **Top-4** Undergraduate, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
 
 - *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
 
