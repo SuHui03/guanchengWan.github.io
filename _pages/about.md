@@ -251,16 +251,34 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 <dl>
   <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/SPIDER.png">
+</dt>
+  <dd><a href=""><strong>	
+Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning
+</strong></a></dd>
+<dd>under review, 2024</dd>
+
+
+</dl>
+
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/EAGLES.png">
 </dt>
   <dd><a href=""><strong>	
 EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
 </strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
 <dd>under review, 2024</dd>
 
 
 </dl>
+
+
+<!-- 
+
 
 <hr>
 
@@ -271,16 +289,15 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
   <dd><a href=""><strong>	
 FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 </strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
 <dd>under review, 2024</dd>
-
 
 </dl>
 
 
+ -->
+
+
 <hr>
-
-
 
 # 🎡 Service
 ## Conference Committee Member
@@ -321,9 +338,9 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 - *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
 - *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/65000+ ~ <strong>0.1%</strong>) *Wuhan University*
-
+<!-- 
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2022.09* **Excellent Student Cadre** (Award Rate: 924/65000+ ~ 1.5%) *Wuhan University*
+- *2022.09* **Excellent Student Cadre** (Award Rate: 924/65000+ ~ 1.5%) *Wuhan University* -->
 
 
 
