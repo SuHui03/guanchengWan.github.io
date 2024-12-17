@@ -54,16 +54,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
-My name is Guancheng Wan (万冠呈), I'm a 4<sup>th</sup>-year undergraduate student at the School of Computer Science, Wuhan University, supervised by [Mang Ye](https://marswhu.github.io/index.html). I'm currently a research intern at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao). I also worked with [Nitesh V Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ),  and [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en).  
+My name is Guancheng Wan (万冠呈), a 4<sup>th</sup>-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN) and [Mr. Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ).
+I am currently a Research Assistant at the University of California, Los Angeles (UCLA), supervised by [Prof. Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Prof. Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ).
+Previously, I spent a wonderful summer at Emory University, supervised by [Prof. Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao) and collaborated with [Prof. B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
+I was also fortunate to work with [Prof. Nitesh V. Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [Prof. Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en), and [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ).
 
 
 🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-
-<!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
-
-<!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
 "All things are interconnected, this is the essence of nature." 
