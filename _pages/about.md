@@ -54,16 +54,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
+My name is Guancheng Wan (万冠呈), a 4<sup>th</sup>-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN) and [Mr. Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ).
+I am currently a Research Intern at UCLA, supervised by [Prof. Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Prof. Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ).
+Previously, I spent a wonderful summer at Emory University, supervised by [Prof. Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao) and collaborated with [Prof. B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
+I was also fortunate to work with [Prof. Nitesh V. Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [Prof. Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en), and [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ).
 
-My name is Guancheng Wan (万冠呈), I'm a 4<sup>th</sup>-year undergraduate student at the School of Computer Science, Wuhan University, supervised by [Mang Ye](https://marswhu.github.io/index.html). I'm currently a research intern at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao). I also worked with [Nitesh V Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ),  and [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en).  
 
+🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
 
-🌟 I'm actively applying for a Ph.D. position in 2025 Fall!
-
-
-<!-- 🌟 I'm currently actively seeking for Ph.D., Research Assistant, or internship positions related to Graph Learning. I'm also open to any possible discussions or collaborate opportunities. If you're interested in working with me, don't hesitate to drop me an email!  -->
-
-<!-- My curriculum vitae (**CV**) can be downloaded [here](https://github.com/GuanchengWan/guanchengWan.github.io/raw/master/docs/GuanchengWan_cv.pdf).  -->
 
 # 🔎 Research 
 "All things are interconnected, this is the essence of nature." 
@@ -89,6 +87,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
   <li><em>2024.12:</em> I serve as a reviewer for <strong>ICML 2025</strong>.</li>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
   <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
@@ -122,7 +121,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 </dt>
   <dd><a href="https://proceedings.mlr.press/v235/wan24g.html"><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
 </strong></a></dd>
-<dd><strong><u>Guancheng Wan</u></strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
+<dd><strong>Guancheng Wan</strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
     <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2024 </dd>
 </dl>
 
@@ -135,7 +134,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
 hspace="10" wspace="20" src="../images/FedSSP.png">
 </dt>
   <dd><a href="https://arxiv.org/pdf/2410.20105"><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
-<dd>Zihan Tan&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
+<dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
 <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
 
@@ -146,7 +145,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
   <dt><img align="left"  width="400"
  wspace="20" hspace="10" src="../images/fggp.png"></dt>
   <dd ><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
-  <dd><strong><u>Guancheng Wan</u></strong>, Wenke Huang, Mang Ye</dd>
+  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
 
 </dl>
@@ -161,7 +160,7 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
 hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
   <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671455"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+<dd>Zewen Liu&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
     <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
     <dd><a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">Project Page</a></dd>
 </dl>
@@ -174,7 +173,7 @@ hspace="10" wspace="20" src="../images/episurvey.png">
   <dt><img align="left" width="400"
 hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
   <dd><a href="https://arxiv.org/pdf/2406.18937"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
+  <dd>Wenke Huang&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
@@ -187,7 +186,7 @@ hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
 hspace="10" wspace="20" src="../images/flsurvey.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du,  Qiang Yang
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
   </dd>
     <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
@@ -204,7 +203,7 @@ hspace="10" wspace="20" src="../images/FDCR.png">
 </dt>
   <dd><a href=""><strong>	
 Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong><u>Guancheng Wan</u></strong>, He Li, Bo Du
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du
   </dd>
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
     
@@ -213,7 +212,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 
 
-<br/>
+<hr>
 
 
 # 📝 Manuscripts
@@ -224,7 +223,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 hspace="10" wspace="20" src="../images/EARTH.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong><u>Guancheng Wan</u></strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
+<dd><strong>Guancheng Wan</strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
 <dd>under review, 2024</dd>
 
 </dl>
@@ -232,7 +231,8 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 <hr>
 
-<!-- 
+
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedTGE.png">
@@ -240,20 +240,63 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
   <dd><a href=""><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
+<dd>under review, 2024</dd>
+
+
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/SPIDER.png">
+</dt>
+  <dd><a href=""><strong>	
+Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning
+</strong></a></dd>
 <dd>under review, 2024</dd>
 
 
 </dl>
 
 
-<hr> -->
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/EAGLES.png">
+</dt>
+  <dd><a href=""><strong>	
+EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
+</strong></a></dd>
+<dd>under review, 2024</dd>
 
 
+</dl>
 
 
-<br/>
+<!-- 
 
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedSPA.png">
+</dt>
+  <dd><a href=""><strong>	
+FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
+</strong></a></dd>
+<dd>under review, 2024</dd>
+
+</dl>
+
+
+ -->
+
+
+<hr>
 
 # 🎡 Service
 ## Conference Committee Member
@@ -273,23 +316,26 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 # 🎖 Scholarships and Honors
 
+- *2024.11* **Lei Jun Excellence Scholarship** (**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate: 10/65000+ ~ **0.01%**)  *Wuhan University*
+
+- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+
+- *2022.09* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+
+- *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
 
 - *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
 
-- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) (**25 Students nation-wide**) *SenseTime*
+- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) ~20k (**25 Students nation-wide**) *SenseTime*
 
 - *2024.04* <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
 
 - *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
 
-- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/59774=<strong>0.1%</strong>) *Wuhan University*
-- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**国家奖学金**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
-- *2023.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
-
-- *2022.10* **Merit Student**  (Award Rate: 10% school-wide) *Wuhan University* 
-- *2022.09* **National Scholarship** (**国家奖学金**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate: 60/65000+ ~ <strong>0.1%</strong>) *Wuhan University*
+<!-- 
 - *2022.09* **First Class Scholarship** (Award Rate: 5% school-wide) *Wuhan University* 
-- *2022.09* **Excellent Student Cadre** (Award Rate: 924/59774=1.5%) *Wuhan University*
+- *2022.09* **Excellent Student Cadre** (Award Rate: 924/65000+ ~ 1.5%) *Wuhan University* -->
 
 
 
@@ -327,9 +373,9 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 
 <details>
-  <summary><strong>Poems That Inspire Me</strong></summary>
+  <summary><strong>Poems that inspire me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
-  <dd><strong>世界不黑也不白,而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
+  <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
 
 
 
