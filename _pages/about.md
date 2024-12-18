@@ -89,6 +89,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.12:</em> I serve as a reviewer for <strong>ICML 2025</strong>.</li>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
   <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
   <li><em>2024.08:</em> Organize a tutorial at <strong>KDD 2024</strong> in Barcelona on 25th, come if you are interested in epidemics + GNN!</li>
@@ -256,13 +257,9 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 # 🎡 Service
 ## Conference Committee Member
-- Reviewer for ICLR'2025
-- Reviewer for NeurIPS'2024
-- Reviewer for AISTATS'2025
-- Reviewer for CVPR'2024,2025
-- Reviewer for ECCV'2024
-- Reviewer for AAAI'2024, 2025
-- Reviewer for ACM MM'2024
+- Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024, AISTATS'2025
+- Reviewer for CVPR'2024,2025, ECCV'2024
+- Reviewer for AAAI'2024, 2025, ACM MM'2024
 - Reviewer for LoG'2024
 
 ##  Journal Reviewer
